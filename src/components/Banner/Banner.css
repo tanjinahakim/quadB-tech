@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('../../assets/banner.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px ;
+}
